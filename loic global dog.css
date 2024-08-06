@@ -1,0 +1,22 @@
+.text-over {
+    position: absolute;
+    left: 58%;
+    top: 1%;
+    color: aliceblue;
+}
+.text {
+    position: absolute;
+    left: 12%; 
+    top: 40%;
+    color: aliceblue;
+    font-size: 58px;
+}
+.button{
+    text-transform: capitalize;
+    color: white;
+    background-color: blueviolet;
+    width: 120px;
+    height: 40px;
+    border-radius: 2px; 
+    
+}
